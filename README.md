@@ -119,3 +119,7 @@ This approach ensures that the model is trained on high-quality, relevant data, 
 This approach was decided on after many attempts and research into different ways of producing a model which can be found here : https://colab.research.google.com/drive/1kU_q6uv8_kZrmT7yFKb4r1ZNDsPaLvEN?usp=sharing
 
 ---
+
+## Author
+**Conor Dawson**  
+BSc (Hons) in Software Development 
